@@ -1,5 +1,6 @@
 # 少女前線 Girls Frontline
 
-[後勤計算機](https://ynntk4815.github.io/gf/main.html)
+(原作者:ynntk4815)
+[后勤计算器](https://Harpes.github.io/gf/main.html)
 
-[陣型計算機](https://ynntk4815.github.io/gf/main2.html)
+[阵型计算器](https://Harpes.github.io/gf/main2.html)
